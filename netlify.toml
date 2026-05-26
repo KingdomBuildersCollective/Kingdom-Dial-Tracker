@@ -1,7 +1,6 @@
 [build]
-  base = "kingdom-dial-tracker"
   command = "npm run build"
-  publish = "kingdom-dial-tracker/dist"
+  publish = "dist"
 
 [[redirects]]
   from = "/*"
